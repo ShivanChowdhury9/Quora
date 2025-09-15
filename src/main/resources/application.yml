@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      client:
+        endpoints: http://localhost:9200
